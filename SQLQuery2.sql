@@ -1,0 +1,1 @@
+﻿SELECT * FROM Bookmark WHERE title like '%titlu7%'
